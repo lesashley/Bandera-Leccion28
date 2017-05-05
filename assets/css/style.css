@@ -1,0 +1,31 @@
+body{
+  margin: 0 auto;
+}
+section{
+  border: 2px solid darkgray;
+  box-sizing: border-box;
+  overflow: auto;
+  margin: 10px 0;
+  width: 1000px;
+}
+h1{
+  font-family: 'Raleway', sans-serif;
+  color: rgb(69, 91, 140);
+  margin: 10px 0;
+}
+.azul{
+  background-color: blue;
+}
+.amarillo{
+  background-color: yellow;
+}
+.rojo{
+  background-color: red;
+}
+div{
+  width: 250px;
+  height: 200px;
+}
+#ejercicio-3 div{
+  float: right;
+}
