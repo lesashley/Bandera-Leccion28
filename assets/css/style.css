@@ -1,0 +1,21 @@
+div{
+  width: 250px;
+  height: 200px;
+}
+h1{
+  font-family: 'Raleway', sans-serif;
+  color: rgb(69, 91, 140);
+}
+#ejercicio-1{
+  border: 2px solid darkgray;
+  box-sizing: border-box;
+}
+.azul{
+  background-color: blue;
+}
+.amarillo{
+  background-color: yellow;
+}
+.rojo{
+  background-color: red;
+}
