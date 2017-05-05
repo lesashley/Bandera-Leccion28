@@ -3,6 +3,7 @@ section{
   box-sizing: border-box;
   overflow: auto;
   margin: 10px 0;
+  width: 1000px;
 }
 h1{
   font-family: 'Raleway', sans-serif;
