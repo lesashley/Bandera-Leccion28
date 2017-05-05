@@ -2,13 +2,13 @@ section{
   border: 2px solid darkgray;
   box-sizing: border-box;
   overflow: auto;
-  margin: 10px 0;
+  margin: 10px;
   width: 1000px;
 }
 h1{
   font-family: 'Raleway', sans-serif;
   color: rgb(69, 91, 140);
-  margin: 10px 0;
+  margin: 10px;
 }
 .azul{
   background-color: blue;
@@ -23,6 +23,10 @@ div{
   width: 250px;
   height: 200px;
 }
+
 #ejercicio-2 div{
   float: left;
+}
+#ejercicio-3 div{
+  float: right;
 }
